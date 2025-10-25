@@ -21,6 +21,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -30,8 +31,20 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+TypeScript é uma linguagem tipada estaticamente que é um superconjunto estrito da sintaxe do JavaScript. Oferece segurança de tipo aprimorada e suporte a ferramentas, tornando-se uma escolha popular para projetos de maior escala.
+
+Nest é um framework para construir aplicações eficientes e escaláveis no lado do servidor com Node.js. Ele fornece uma estrutura e uma gama de recursos que facilitam o desenvolvimento e o teste de aplicações.
+
+Postgres é um poderoso sistema de gerenciamento de banco de dados relacional de código aberto que é bem adequado para estruturas de dados complexas e processamento de dados em grande escala.
+
+TypeORM é uma ferramenta de Mapeamento Objeto-Relacional (ORM) de código aberto que fornece uma maneira de interagir com bancos de dados relacionais como MySQL, PostgreSQL e SQLite. Ajuda você a escrever código relacionado a banco de dados usando programação orientada a objetos em TypeScript ou JavaScript, em vez de escrever instruções SQL brutas. O TypeORM oferece muitos recursos, como gerenciamento de transações, migrações de banco de dados, pooling de conexões, etc., que facilitam o trabalho com bancos de dados em suas aplicações.
+
+Docker é uma plataforma de contêineres que facilita o deploy e a execução de aplicações em diferentes ambientes. Vamos lançar um banco de dados Postgres e serviço de suporte no docker.
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
