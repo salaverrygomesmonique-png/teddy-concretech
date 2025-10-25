@@ -1,6 +1,21 @@
 # API c/ Nest + React + TypeScript + Vite + TypeORM + Postgres + Docker
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+O projeto respeita os principios da Well-architecture da AWS, com padrões REST, e metodologia SOLID, TDD/DDD.
+
+1) Quanto tempo disponibilizariamos para a criação da aplicação?
+   
+Não há um número fixo de sprints para construir uma aplicação em microsserviços, pois a quantidade varia muito dependendo de diversos fatores. Ao invés de ser um processo único, é um esforço contínuo de design, desenvolvimento e refatoração. A agilidade da abordagem em microsserviços permite que o desenvolvimento e as entregas aconteçam em um ritmo sustentável e adaptável. 
+
+2) Quantos desenvolvedores seriam necessários para a costrução da aplicação?
+
+Equipes que visam a entrega contínua podem ter sprints curtos, mas contínuos, com diversas implantações por dia. 
+Pelo menos 1 Fullstack, 1 Backend, 1 analista de testes ou Devops
+
+3) Qual a senioridade dos desenvolvedores?
+
+Equipes com mais experiência em arquitetura de microsserviços podem estimar e executar as tarefas de forma mais eficiente. O ideal seria contar com desenvolvedores pleno e senior. 
+
 ## Getting Started
 
 First, run the development server:
